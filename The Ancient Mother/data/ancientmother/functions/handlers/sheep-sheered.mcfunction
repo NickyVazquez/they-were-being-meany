@@ -1,0 +1,1 @@
+execute if score $Config Config.Toggle-String-On-Shear matches 1 run function ancientmother:features/stringonshear

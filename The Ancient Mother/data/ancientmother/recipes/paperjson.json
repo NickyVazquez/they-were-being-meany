@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "minecraft:planks"
+  },
+  "result": "minecraft:paper"
+}

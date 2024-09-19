@@ -1,0 +1,1 @@
+execute if predicate ancientmother:stringroll run summon item ~ ~0.5 ~ {Item:{id:"minecraft:string",Count:1b},Motion:[0d,0.2d,0d],OnGround:1b}

@@ -1,0 +1,1 @@
+execute as @e[type=corpse:corpse,nbt={Age:0}] at @s run summon falling_block ~ ~1.2 ~ {Glowing:1b,CustomNameVisible:1b,CustomName:'[{"text":"Body"}]',NoGravity:1b,Tags:["corpseMarker"],Time:-2000000000,Invulnerable:1b,Silent:1b,BlockState:{Name:red_concrete},NoAI:1b,DeathLootTable:"empty",DropItem:0b}
